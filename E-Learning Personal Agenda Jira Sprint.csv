@@ -1,0 +1,285 @@
+Summary,Issue key,Issue id,Issue Type,Status,Project key,Project name,Project type,Project lead,Project lead id,Project description,Priority,Resolution,Assignee,Assignee Id,Reporter,Reporter Id,Creator,Creator Id,Created,Updated,Last Viewed,Resolved,Due date,Votes,Description,Environment,Watchers,Watchers Id,Original estimate,Remaining Estimate,Time Spent,Work Ratio,Σ Original Estimate,Σ Remaining Estimate,Σ Time Spent,Security Level,Outward issue link (Blocks),Outward issue link (Blocks),Outward issue link (Relates),Outward issue link (Relates),Outward issue link (Relates),Outward issue link (Relates),Outward issue link (Relates),Outward issue link (Relates),Outward issue link (Relates),Outward issue link (Relates),Outward issue link (Relates),Outward issue link (Relates),Outward issue link (Relates),Outward issue link (Relates),Outward issue link (Relates),Outward issue link (Relates),Attachment,Custom field (Actual end),Custom field (Actual start),Custom field (Change reason),Custom field (Change risk),Custom field (Change type),Custom field (Development),Custom field (Epic Color),Custom field (Epic Link),Custom field (Epic Name),Custom field (Epic Status),Custom field (Impact),Custom field (Issue color),Custom field (Rank),Custom field (Request Type),Sprint,Custom field (Start date),Custom field (Story Points),Custom field (Story point estimate),Custom field (Target end),Custom field (Target start),Custom field (Team),Custom field ([CHART] Date of First Response),Comment,Status Category
+Verify the 'Export' Buttons so that the Saved Personal agenda Can be added Into the personal Calendar.,EL-68,10083,Test,Done,EL,E - Learning,software,Swarup Kulkarni,612efa4cb1894f00716dc42d,,Medium,Done,Swarup Kulkarni,612efa4cb1894f00716dc42d,Swarup Kulkarni,612efa4cb1894f00716dc42d,Swarup Kulkarni,612efa4cb1894f00716dc42d,08/Sep/21 8:02 PM,09/Sep/21 5:05 AM,09/Sep/21 5:05 AM,09/Sep/21 5:05 AM,,0,"As a User when I navigates for the export buttons which are available in the personal agenda calendar pop up then I am able to download those personal agenda calendar.
+
+Those 'Export' Buttons are :-
+* Export in iCal format as private event
+* Export in iCal format as public event
+* Export in iCal format as confidential event",,Swarup Kulkarni,612efa4cb1894f00716dc42d,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{},,,,,,,0|i000ez:,,EL Sprint 1,,,,,,,,,Done
+Verify that 'Previous Button' to change the month is working or not.,EL-67,10082,Test,Done,EL,E - Learning,software,Swarup Kulkarni,612efa4cb1894f00716dc42d,,Medium,Done,Swarup Kulkarni,612efa4cb1894f00716dc42d,Swarup Kulkarni,612efa4cb1894f00716dc42d,Swarup Kulkarni,612efa4cb1894f00716dc42d,08/Sep/21 4:43 PM,09/Sep/21 5:05 AM,08/Sep/21 4:43 PM,09/Sep/21 5:05 AM,,0,When a user navigates the Agenda List option in personal agenda they can change their month by using *Previous* Button to Find their scheduled or pending  work which they have  added in their personal agenda.  ,,Swarup Kulkarni,612efa4cb1894f00716dc42d,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{},,,,,,,0|i000er:,,EL Sprint 1,,,,,,,,,Done
+Verify that 'Next Button' to change the month is working or not. ,EL-66,10081,Test,Done,EL,E - Learning,software,Swarup Kulkarni,612efa4cb1894f00716dc42d,,Medium,Done,Swarup Kulkarni,612efa4cb1894f00716dc42d,Swarup Kulkarni,612efa4cb1894f00716dc42d,Swarup Kulkarni,612efa4cb1894f00716dc42d,08/Sep/21 11:08 AM,09/Sep/21 5:05 AM,08/Sep/21 4:45 PM,09/Sep/21 5:05 AM,,0,When a user navigates the Agenda List option in personal agenda they can change their month by using *Next* Button to Find their scheduled or pending  work which they have  added in their personal agenda.  ,,Swarup Kulkarni,612efa4cb1894f00716dc42d,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{},,,,,,,0|i000ej:,,EL Sprint 1,,,,,,,,,Done
+"Verify the 'Session Plan Calendar' in personal agenda, That a User is not able to see the content. ",EL-65,10080,Bug,To Do,EL,E - Learning,software,Swarup Kulkarni,612efa4cb1894f00716dc42d,,Medium,,Swarup Kulkarni,612efa4cb1894f00716dc42d,Swarup Kulkarni,612efa4cb1894f00716dc42d,Swarup Kulkarni,612efa4cb1894f00716dc42d,08/Sep/21 10:02 AM,08/Sep/21 10:30 AM,08/Sep/21 10:15 AM,,,0,"Steps To Reproduce.
+
+# Go to the  *_e_Learning Website._*
+# Go to personal agenda and select for 'Session Plan Calendar' option from Toolbar in personal agenda.
+# User is unable to See the content in this option.
+
+
+
+*Expected Result* *:*-  When an User navigates for this option that user should able to see the Session or Available plans for the particular course sorted with Dates. 
+
+*Actual result*  :- User is unable to see the Plans/ Session available in ‘Session Plan Calendar’
+
+h2. 
+
+!Session Plan Calendar .jpg|width=1920,height=1080!",,Swarup Kulkarni,612efa4cb1894f00716dc42d,,,,,,,,,EL-64,,EL-64,,,,,,,,,,,,,,08/Sep/21 10:14 AM;ug:04b627af-7f1d-494b-bc4c-42af51646025;Session Plan Calendar .jpg;https://corporateola123456.atlassian.net/secure/attachment/10006/Session+Plan+Calendar+.jpg,,,,,,{},,,,,,,0|i0002w:x,,EL Sprint 1,,,,,,,,,To Do
+Verify the 'Session Plan Calendar' Button from Toolbar in Personal agenda.,EL-64,10079,Test,Block,EL,E - Learning,software,Swarup Kulkarni,612efa4cb1894f00716dc42d,,Medium,,Swarup Kulkarni,612efa4cb1894f00716dc42d,Swarup Kulkarni,612efa4cb1894f00716dc42d,Swarup Kulkarni,612efa4cb1894f00716dc42d,07/Sep/21 3:52 AM,08/Sep/21 10:36 AM,09/Sep/21 5:13 AM,,,0,,,Swarup Kulkarni,612efa4cb1894f00716dc42d,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{},,,,,,,0|i0002w:v,,EL Sprint 1,,,,,,,,,In Progress
+Verify the 'Agenda List' Button from Toolbar in Personal agenda.,EL-63,10078,Test,Done,EL,E - Learning,software,Swarup Kulkarni,612efa4cb1894f00716dc42d,,Medium,Done,Swarup Kulkarni,612efa4cb1894f00716dc42d,Swarup Kulkarni,612efa4cb1894f00716dc42d,Swarup Kulkarni,612efa4cb1894f00716dc42d,07/Sep/21 3:44 AM,07/Sep/21 8:31 AM,08/Sep/21 7:42 PM,07/Sep/21 8:31 AM,,0,,,Swarup Kulkarni,612efa4cb1894f00716dc42d,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{},,,,,,,0|i0002w:r,,EL Sprint 1,,,,,,,,,Done
+Verify for agenda list that saved Personal agenda is showing correctly or not. ,EL-62,10077,Test,Done,EL,E - Learning,software,Swarup Kulkarni,612efa4cb1894f00716dc42d,,Medium,Done,Swarup Kulkarni,612efa4cb1894f00716dc42d,Swarup Kulkarni,612efa4cb1894f00716dc42d,Swarup Kulkarni,612efa4cb1894f00716dc42d,06/Sep/21 6:59 PM,07/Sep/21 8:40 AM,09/Sep/21 5:13 AM,07/Sep/21 8:40 AM,,0,,,Swarup Kulkarni,612efa4cb1894f00716dc42d,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{},,,,,,,0|i000eb:,,EL Sprint 1,,,,,,,,,Done
+Verify the 'Description' by Hover in 'Agenda List' where an user added a personal agenda.,EL-61,10076,Test,Done,EL,E - Learning,software,Swarup Kulkarni,612efa4cb1894f00716dc42d,,Medium,Done,Swarup Kulkarni,612efa4cb1894f00716dc42d,Swarup Kulkarni,612efa4cb1894f00716dc42d,Swarup Kulkarni,612efa4cb1894f00716dc42d,06/Sep/21 6:52 PM,07/Sep/21 8:40 AM,09/Sep/21 5:13 AM,07/Sep/21 8:40 AM,,0,,,Swarup Kulkarni,612efa4cb1894f00716dc42d,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{},,,,,,,0|i000e3:,,EL Sprint 1,,,,,,,,,Done
+Verify that saved  'Title' is visible or not For a personal agenda in agenda List.,EL-60,10075,Test,Done,EL,E - Learning,software,Swarup Kulkarni,612efa4cb1894f00716dc42d,,Medium,Done,Swarup Kulkarni,612efa4cb1894f00716dc42d,Swarup Kulkarni,612efa4cb1894f00716dc42d,Swarup Kulkarni,612efa4cb1894f00716dc42d,06/Sep/21 6:45 PM,07/Sep/21 8:40 AM,09/Sep/21 5:13 AM,07/Sep/21 8:40 AM,,0,,,Swarup Kulkarni,612efa4cb1894f00716dc42d,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{},,,,,,,0|i000dv:,,EL Sprint 1,,,,,,,,,Done
+Verify that in clicking on 'Agenda List' in  personal Agenda option agenda list  widget should open.,EL-59,10074,Test,Done,EL,E - Learning,software,Swarup Kulkarni,612efa4cb1894f00716dc42d,,Medium,Done,Swarup Kulkarni,612efa4cb1894f00716dc42d,Swarup Kulkarni,612efa4cb1894f00716dc42d,Swarup Kulkarni,612efa4cb1894f00716dc42d,06/Sep/21 3:09 PM,07/Sep/21 9:07 AM,07/Sep/21 9:14 AM,07/Sep/21 8:40 AM,,0,,,Swarup Kulkarni,612efa4cb1894f00716dc42d,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{},,,,,,,0|i000dn:,,EL Sprint 1,,,,,,,,,Done
+As a user I want to check my Agenda List So that I can overview my agenda list which I have made.,EL-58,10073,Story,Done,EL,E - Learning,software,Swarup Kulkarni,612efa4cb1894f00716dc42d,,Medium,Done,Swarup Kulkarni,612efa4cb1894f00716dc42d,Swarup Kulkarni,612efa4cb1894f00716dc42d,Swarup Kulkarni,612efa4cb1894f00716dc42d,06/Sep/21 12:42 PM,08/Sep/21 6:54 PM,08/Sep/21 6:54 PM,07/Sep/21 8:40 AM,,0,"*AS A USER* 
+
+*I WANT TO* check  my agenda List 
+
+*SO THAT* I can overview my agenda list which I have made.
+
+
+
+*SCOPE*
+
+* Build a Agneda List Page in Personal Agenda.
+* User should able to see the Agenda List.
+* It should work in all browsers.
+* It should also work in mobile.
+
+
+
+*Pre Conditions*
+
+* User should have logged in the _E-learning Website_.
+* User should have to select the Personal Agenda option in E-learning website.
+* User should have selected _Agenda List_ option in personal agenda
+
+ 
+
+*_Acceptance Criteria_*
+
+# Given that I am a registered user and Logged in E-learning Website. If I go to the personal Agenda page and if I click on Agenda List  option then Agenda List option should be accessible.",,Swarup Kulkarni,612efa4cb1894f00716dc42d,,,,,,,,,,,EL-59,EL-60,EL-61,EL-66,,,,,,,,,,,,,,,,,{},,EL-1,,,,,0|i000df:,,EL Sprint 1,,,,,,,,,Done
+Verify the data time in calendar by Day,EL-57,10072,Test,Done,EL,E - Learning,software,Swarup Kulkarni,612efa4cb1894f00716dc42d,,Medium,Done,Swarup Kulkarni,612efa4cb1894f00716dc42d,Swarup Kulkarni,612efa4cb1894f00716dc42d,Swarup Kulkarni,612efa4cb1894f00716dc42d,06/Sep/21 12:38 PM,07/Sep/21 8:40 AM,09/Sep/21 5:13 AM,07/Sep/21 8:40 AM,,0,,,Swarup Kulkarni,612efa4cb1894f00716dc42d,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{},,,,,,,0|i000d7:,,EL Sprint 1,,,,,,,,,Done
+Verify the agenda Day view for a Day.,EL-56,10071,Test,Done,EL,E - Learning,software,Swarup Kulkarni,612efa4cb1894f00716dc42d,,Medium,Done,Swarup Kulkarni,612efa4cb1894f00716dc42d,Swarup Kulkarni,612efa4cb1894f00716dc42d,Swarup Kulkarni,612efa4cb1894f00716dc42d,06/Sep/21 12:32 PM,07/Sep/21 8:40 AM,09/Sep/21 5:13 AM,07/Sep/21 8:40 AM,,0,,,Swarup Kulkarni,612efa4cb1894f00716dc42d,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{},,,,,,,0|i000cz:,,EL Sprint 1,,,,,,,,,Done
+Verify the Description by Hover on the the Date where an user added a personal agenda in a Calendar by Day..,EL-55,10070,Test,Done,EL,E - Learning,software,Swarup Kulkarni,612efa4cb1894f00716dc42d,,Medium,Done,Swarup Kulkarni,612efa4cb1894f00716dc42d,Swarup Kulkarni,612efa4cb1894f00716dc42d,Swarup Kulkarni,612efa4cb1894f00716dc42d,06/Sep/21 12:29 PM,07/Sep/21 8:40 AM,09/Sep/21 5:13 AM,07/Sep/21 8:40 AM,,0,,,Swarup Kulkarni,612efa4cb1894f00716dc42d,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{},,,,,,,0|i000cr:,,EL Sprint 1,,,,,,,,,Done
+Verify 'Delete' Option for saved personal calendar agenda in calendar by Day.,EL-54,10069,Test,Done,EL,E - Learning,software,Swarup Kulkarni,612efa4cb1894f00716dc42d,,Medium,Done,Swarup Kulkarni,612efa4cb1894f00716dc42d,Swarup Kulkarni,612efa4cb1894f00716dc42d,Swarup Kulkarni,612efa4cb1894f00716dc42d,06/Sep/21 11:53 AM,07/Sep/21 8:39 AM,09/Sep/21 5:13 AM,07/Sep/21 8:39 AM,,0,,,Swarup Kulkarni,612efa4cb1894f00716dc42d,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{},,,,,,,0|i000cj:,,EL Sprint 1,,,,,,,,,Done
+Verify that 'Add' button  is Saving the Personal Calendar Agenda for a Day Without entering the 'Title' or 'Description'. ,EL-53,10068,Bug,To Do,EL,E - Learning,software,Swarup Kulkarni,612efa4cb1894f00716dc42d,,Medium,,Swarup Kulkarni,612efa4cb1894f00716dc42d,Swarup Kulkarni,612efa4cb1894f00716dc42d,Swarup Kulkarni,612efa4cb1894f00716dc42d,06/Sep/21 11:29 AM,07/Sep/21 12:17 PM,08/Sep/21 10:03 AM,,,0,"1. Go to the *_e_Learning Website._*
+2. Go to personal agenda and select for calendar by Day option.
+3. Go to the personal calendar agenda by clicking the dates
+4. Click on  'Add' button  save the Personal calendar  with or without  title as well as description.
+
+Expected Result:- Add button should save the personal Calendar agenda with a Title or Description.
+
+Actual result :- Add Button can  save the personal calendar *without entering* any title or description.",Browser : Chrome version 43.,Swarup Kulkarni,612efa4cb1894f00716dc42d,,,,,,,,,EL-46,EL-52,EL-52,,,,,,,,,,,,,,06/Sep/21 11:29 AM;ug:04b627af-7f1d-494b-bc4c-42af51646025;Untitled.jpg;https://corporateola123456.atlassian.net/secure/attachment/10002/Untitled.jpg,,,,,,{},,,,,,,0|i000cb:,,EL Sprint 1,,,,,,,,,To Do
+Verifying the 'Add' Button option to save the personal calendar agenda for calendar by Day.,EL-52,10067,Test,Block,EL,E - Learning,software,Swarup Kulkarni,612efa4cb1894f00716dc42d,,Medium,,Swarup Kulkarni,612efa4cb1894f00716dc42d,Swarup Kulkarni,612efa4cb1894f00716dc42d,Swarup Kulkarni,612efa4cb1894f00716dc42d,06/Sep/21 11:19 AM,07/Sep/21 9:19 AM,07/Sep/21 11:06 AM,,,0,,,Swarup Kulkarni,612efa4cb1894f00716dc42d,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{},,,,,,,0|i000c3:,,EL Sprint 1,,,,,,,,,In Progress
+Verifying the toolkit in description box in personal calendar agenda for Calendar by Day.,EL-51,10066,Test,Done,EL,E - Learning,software,Swarup Kulkarni,612efa4cb1894f00716dc42d,,Medium,Done,Swarup Kulkarni,612efa4cb1894f00716dc42d,Swarup Kulkarni,612efa4cb1894f00716dc42d,Swarup Kulkarni,612efa4cb1894f00716dc42d,06/Sep/21 10:56 AM,07/Sep/21 8:39 AM,09/Sep/21 5:13 AM,07/Sep/21 8:39 AM,,0,,,Swarup Kulkarni,612efa4cb1894f00716dc42d,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{},,,,,,,0|i000bv:,,EL Sprint 1,,,,,,,,,Done
+Verify the Description box in Personal Calendar for a Calendar By Day.,EL-50,10065,Test,Done,EL,E - Learning,software,Swarup Kulkarni,612efa4cb1894f00716dc42d,,Medium,Done,Swarup Kulkarni,612efa4cb1894f00716dc42d,Swarup Kulkarni,612efa4cb1894f00716dc42d,Swarup Kulkarni,612efa4cb1894f00716dc42d,06/Sep/21 10:54 AM,07/Sep/21 9:15 AM,07/Sep/21 9:15 AM,07/Sep/21 8:39 AM,,0,,,Swarup Kulkarni,612efa4cb1894f00716dc42d,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{},,,,,,,0|i000bn:,,EL Sprint 1,,,,,,,,,Done
+Verify For the 'Title' in Personal Calendar agenda for a calendar by day,EL-49,10064,Test,Done,EL,E - Learning,software,Swarup Kulkarni,612efa4cb1894f00716dc42d,,Medium,Done,Swarup Kulkarni,612efa4cb1894f00716dc42d,Swarup Kulkarni,612efa4cb1894f00716dc42d,Swarup Kulkarni,612efa4cb1894f00716dc42d,06/Sep/21 10:38 AM,07/Sep/21 8:39 AM,08/Sep/21 8:43 AM,07/Sep/21 8:39 AM,,0,,,Swarup Kulkarni,612efa4cb1894f00716dc42d,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{},,,,,,,0|i000bf:,,EL Sprint 1,,,,,,,,,Done
+Verify for pop up of personal calendar agenda in personal agenda for a day.,EL-48,10063,Test,Done,EL,E - Learning,software,Swarup Kulkarni,612efa4cb1894f00716dc42d,,Medium,Done,Swarup Kulkarni,612efa4cb1894f00716dc42d,Swarup Kulkarni,612efa4cb1894f00716dc42d,Swarup Kulkarni,612efa4cb1894f00716dc42d,06/Sep/21 10:26 AM,07/Sep/21 9:15 AM,08/Sep/21 8:42 AM,07/Sep/21 8:39 AM,,0,,,Swarup Kulkarni,612efa4cb1894f00716dc42d,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{},,,,,,,0|i000b7:,,EL Sprint 1,,,,,,,,,Done
+Verify that in clicking on 'Day' Toolbar in  personal Agenda option a calendar by Day widget should open.,EL-47,10062,Test,Done,EL,E - Learning,software,Swarup Kulkarni,612efa4cb1894f00716dc42d,,Medium,Done,Swarup Kulkarni,612efa4cb1894f00716dc42d,Swarup Kulkarni,612efa4cb1894f00716dc42d,Swarup Kulkarni,612efa4cb1894f00716dc42d,06/Sep/21 10:13 AM,07/Sep/21 8:39 AM,09/Sep/21 5:13 AM,07/Sep/21 8:39 AM,,0,,,Swarup Kulkarni,612efa4cb1894f00716dc42d,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{},,,,,,,0|i000az:,,EL Sprint 1,,,,,,,,,Done
+"As a user I want to check calendar by day, So That I can successfully make my schedule For a particular Day.",EL-46,10061,Story,Block,EL,E - Learning,software,Swarup Kulkarni,612efa4cb1894f00716dc42d,,Medium,,Swarup Kulkarni,612efa4cb1894f00716dc42d,Swarup Kulkarni,612efa4cb1894f00716dc42d,Swarup Kulkarni,612efa4cb1894f00716dc42d,06/Sep/21 9:50 AM,08/Sep/21 6:37 PM,08/Sep/21 6:22 PM,,,0,"*AS A* User (Student)
+
+*I WANT* to check for a Calendar by Day Functionality in personal Agenda.
+
+*SO THAT* I can successfully make my schedule in a particular Day.
+
+*SCOPE*
+
+* Build a Calendar by Day Page in Personal Agenda.
+* User should able to see the calendar by Week page.
+* It should work in all browsers.
+* It should also work in mobile.
+
+
+
+*Pre Conditions*
+
+* User should have logged in the _E-learning Website_.
+* User should have to select the Personal Agenda option in Elearning website.
+* User should have selected _day_ option in personal agenda
+
+ 
+
+*_Acceptance Criteria_*
+
+# Given that I am a registered user and Logged in Elearning Website. If I go to the personal Agenda page and if I click on any date in calendar by Day option then personal calendar pop up option should be accessible.",,Swarup Kulkarni,612efa4cb1894f00716dc42d,,,,,,,,,EL-51,,EL-47,EL-48,EL-49,EL-50,EL-52,EL-54,EL-55,EL-56,EL-57,,,,,,,,,,,,{},,EL-1,,,,,0|i000ar:,,EL Sprint 1,,,,,,,,,In Progress
+Verifying the 'All day' checkbox is working or not.,EL-45,10060,Test,Done,EL,E - Learning,software,Swarup Kulkarni,612efa4cb1894f00716dc42d,,Medium,Done,Swarup Kulkarni,612efa4cb1894f00716dc42d,Swarup Kulkarni,612efa4cb1894f00716dc42d,Swarup Kulkarni,612efa4cb1894f00716dc42d,06/Sep/21 9:31 AM,07/Sep/21 8:37 AM,09/Sep/21 5:13 AM,07/Sep/21 8:37 AM,,0,,,Swarup Kulkarni,612efa4cb1894f00716dc42d,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{},,,,,,,0|i00063:,,EL Sprint 1,,,,,,,,,Done
+Verifying the 'Toolbar' agenda Available in personal Agenda.,EL-44,10059,Test,Done,EL,E - Learning,software,Swarup Kulkarni,612efa4cb1894f00716dc42d,,Medium,Done,Swarup Kulkarni,612efa4cb1894f00716dc42d,Swarup Kulkarni,612efa4cb1894f00716dc42d,Swarup Kulkarni,612efa4cb1894f00716dc42d,06/Sep/21 9:17 AM,08/Sep/21 7:40 PM,08/Sep/21 6:58 PM,07/Sep/21 7:43 AM,,0,"User Navigates for the button options available in personal agenda that they can their view for a calendar 
+
+* Calendar by Month
+* Calendar by week
+* Calendar by Date
+* And the last button option is for agenda list which gives the list of the personal agenda saved by the user.",,Swarup Kulkarni,612efa4cb1894f00716dc42d,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{},,,,,,,0|i0002v:i,,EL Sprint 1,,,,,,,,,Done
+Verifying the header toolbar in personal agenda,EL-43,10058,Test,Done,EL,E - Learning,software,Swarup Kulkarni,612efa4cb1894f00716dc42d,,Medium,Done,Swarup Kulkarni,612efa4cb1894f00716dc42d,Swarup Kulkarni,612efa4cb1894f00716dc42d,Swarup Kulkarni,612efa4cb1894f00716dc42d,06/Sep/21 9:08 AM,08/Sep/21 7:41 PM,08/Sep/21 7:40 PM,07/Sep/21 7:51 AM,,0,"In this header toolbar options 
+
+User navigates for the options available
+
+* Calendar
+* Agenda List
+* Session Plan Calendar.",,Swarup Kulkarni,612efa4cb1894f00716dc42d,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{},,,,,,,0|i0002w:i,,EL Sprint 1,,,,,,,,,Done
+Verify the data time in calendar by week ,EL-42,10057,Test,Done,EL,E - Learning,software,Swarup Kulkarni,612efa4cb1894f00716dc42d,,Medium,Done,Swarup Kulkarni,612efa4cb1894f00716dc42d,Swarup Kulkarni,612efa4cb1894f00716dc42d,Swarup Kulkarni,612efa4cb1894f00716dc42d,06/Sep/21 9:01 AM,07/Sep/21 8:39 AM,09/Sep/21 5:13 AM,07/Sep/21 8:39 AM,,0,,,Swarup Kulkarni,612efa4cb1894f00716dc42d,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{},,,,,,,0|i000aj:,,EL Sprint 1,,,,,,,,,Done
+Verify the agenda Week view for a week,EL-41,10056,Test,Done,EL,E - Learning,software,Swarup Kulkarni,612efa4cb1894f00716dc42d,,Medium,Done,Swarup Kulkarni,612efa4cb1894f00716dc42d,Swarup Kulkarni,612efa4cb1894f00716dc42d,Swarup Kulkarni,612efa4cb1894f00716dc42d,06/Sep/21 8:55 AM,07/Sep/21 8:39 AM,07/Sep/21 10:30 AM,07/Sep/21 8:39 AM,,0,,,Swarup Kulkarni,612efa4cb1894f00716dc42d,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{},,,,,,,0|i000ab:,,EL Sprint 1,,,,,,,,,Done
+Verify the Description by Hover on the the Date in a Calendar by Week..,EL-40,10055,Test,Done,EL,E - Learning,software,Swarup Kulkarni,612efa4cb1894f00716dc42d,,Medium,Done,Swarup Kulkarni,612efa4cb1894f00716dc42d,Swarup Kulkarni,612efa4cb1894f00716dc42d,Swarup Kulkarni,612efa4cb1894f00716dc42d,06/Sep/21 8:44 AM,07/Sep/21 8:39 AM,09/Sep/21 5:13 AM,07/Sep/21 8:39 AM,,0,,,Swarup Kulkarni,612efa4cb1894f00716dc42d,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{},,,,,,,0|i000a3:,,EL Sprint 1,,,,,,,,,Done
+Verify that 'Add' button  is Saving the Personal Calendar Agenda for a Week Without entering the 'Title' or 'Description'. ,EL-39,10054,Bug,To Do,EL,E - Learning,software,Swarup Kulkarni,612efa4cb1894f00716dc42d,,Medium,,Swarup Kulkarni,612efa4cb1894f00716dc42d,Swarup Kulkarni,612efa4cb1894f00716dc42d,Swarup Kulkarni,612efa4cb1894f00716dc42d,06/Sep/21 4:04 AM,07/Sep/21 12:16 PM,07/Sep/21 12:15 PM,,,0,"1. Go to the *_e_Learning Website._*
+2. Go to personal agenda and select for calendar by Day option.
+3. Go to the personal calendar agenda by clicking on date
+4. Click on  'Add' button  save the Personal calendar  with or without  title as well as description.
+
+Expected Result:- Add button should save the personal Calendar agenda with a Title or Description.
+
+Actual result :- Add Button can  save the personal calendar *without entering* any title or description.",Browser : Chrome version 43.,Swarup Kulkarni,612efa4cb1894f00716dc42d,,,,,,,,,,,EL-37,,,,,,,,,,,,,,06/Sep/21 4:04 AM;ug:04b627af-7f1d-494b-bc4c-42af51646025;Untitled.jpg;https://corporateola123456.atlassian.net/secure/attachment/10001/Untitled.jpg,,,,,,{},,,,,,,0|i0009r:,,EL Sprint 1,,,,,,,,,To Do
+Verify 'Delete' Option for saved personal calendar agenda in calendar by week.,EL-38,10053,Test,Done,EL,E - Learning,software,Swarup Kulkarni,612efa4cb1894f00716dc42d,,Medium,Done,Swarup Kulkarni,612efa4cb1894f00716dc42d,Swarup Kulkarni,612efa4cb1894f00716dc42d,Swarup Kulkarni,612efa4cb1894f00716dc42d,06/Sep/21 3:53 AM,07/Sep/21 8:38 AM,09/Sep/21 5:13 AM,07/Sep/21 8:38 AM,,0,,,Swarup Kulkarni,612efa4cb1894f00716dc42d,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{},,,,,,,0|i0009v:,,EL Sprint 1,,,,,,,,,Done
+Verifying the 'Add' Button option to save the personal calendar agenda for calendar by week.,EL-37,10052,Test,Block,EL,E - Learning,software,Swarup Kulkarni,612efa4cb1894f00716dc42d,,Medium,,Swarup Kulkarni,612efa4cb1894f00716dc42d,Swarup Kulkarni,612efa4cb1894f00716dc42d,Swarup Kulkarni,612efa4cb1894f00716dc42d,05/Sep/21 2:19 PM,07/Sep/21 9:21 AM,08/Sep/21 8:45 AM,,,0,,,Swarup Kulkarni,612efa4cb1894f00716dc42d,,,,,,,,,,,EL-38,EL-39,,,,,,,,,,,,,,,,,,,{},,,,,,,0|i0009n:,,EL Sprint 1,,,,,,,,,In Progress
+Verifying the toolkit in description box in personal calendar for Calendar by week,EL-36,10051,Test,Done,EL,E - Learning,software,Swarup Kulkarni,612efa4cb1894f00716dc42d,,Medium,Done,Swarup Kulkarni,612efa4cb1894f00716dc42d,Swarup Kulkarni,612efa4cb1894f00716dc42d,Swarup Kulkarni,612efa4cb1894f00716dc42d,05/Sep/21 11:51 AM,07/Sep/21 9:15 AM,07/Sep/21 9:15 AM,07/Sep/21 8:38 AM,,0,,,Swarup Kulkarni,612efa4cb1894f00716dc42d,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{},,,,,,,0|i0009f:,,EL Sprint 1,,,,,,,,,Done
+Verifying the Description box in Personal Calendar for a Calendar By Week.,EL-35,10050,Test,Done,EL,E - Learning,software,Swarup Kulkarni,612efa4cb1894f00716dc42d,,Medium,Done,Swarup Kulkarni,612efa4cb1894f00716dc42d,Swarup Kulkarni,612efa4cb1894f00716dc42d,Swarup Kulkarni,612efa4cb1894f00716dc42d,05/Sep/21 11:44 AM,07/Sep/21 9:15 AM,07/Sep/21 9:15 AM,07/Sep/21 8:38 AM,,0,,,Swarup Kulkarni,612efa4cb1894f00716dc42d,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{},,,,,,,0|i00097:,,EL Sprint 1,,,,,,,,,Done
+Verifying the Title box in Personal Calendar For a Calendar By week,EL-34,10049,Test,Done,EL,E - Learning,software,Swarup Kulkarni,612efa4cb1894f00716dc42d,,Medium,Done,Swarup Kulkarni,612efa4cb1894f00716dc42d,Swarup Kulkarni,612efa4cb1894f00716dc42d,Swarup Kulkarni,612efa4cb1894f00716dc42d,05/Sep/21 11:33 AM,07/Sep/21 9:15 AM,07/Sep/21 9:15 AM,07/Sep/21 8:38 AM,,0,,,Swarup Kulkarni,612efa4cb1894f00716dc42d,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{},,,,,,,0|i0008z:,,EL Sprint 1,,,,,,,,,Done
+Verify for pop up of personal calendar by clicking on a date is working or not (calendar By Week).,EL-33,10048,Test,Done,EL,E - Learning,software,Swarup Kulkarni,612efa4cb1894f00716dc42d,,Medium,Done,Swarup Kulkarni,612efa4cb1894f00716dc42d,Swarup Kulkarni,612efa4cb1894f00716dc42d,Swarup Kulkarni,612efa4cb1894f00716dc42d,05/Sep/21 11:28 AM,07/Sep/21 9:15 AM,07/Sep/21 9:15 AM,07/Sep/21 8:38 AM,,0,,,Swarup Kulkarni,612efa4cb1894f00716dc42d,,,,,,,,,,,EL-31,,,,,,,,,,,,,,,,,,,,{},,,,,,,0|i0008r:,,EL Sprint 1,,,,,,,,,Done
+Verify that in clicking on 'Week' in  personal Agenda option a calendar by week widget should open.,EL-32,10047,Test,Done,EL,E - Learning,software,Swarup Kulkarni,612efa4cb1894f00716dc42d,,Medium,Done,Swarup Kulkarni,612efa4cb1894f00716dc42d,Swarup Kulkarni,612efa4cb1894f00716dc42d,Swarup Kulkarni,612efa4cb1894f00716dc42d,05/Sep/21 11:18 AM,07/Sep/21 9:15 AM,07/Sep/21 9:15 AM,07/Sep/21 8:38 AM,,0,,,Swarup Kulkarni,612efa4cb1894f00716dc42d,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{},,,,,,,0|i0008j:,,EL Sprint 1,,,,,,,,,Done
+"As a user I want to check for calendar by week, so that I can successfully make my schedule in a particular week.",EL-31,10046,Story,Block,EL,E - Learning,software,Swarup Kulkarni,612efa4cb1894f00716dc42d,,Medium,,Swarup Kulkarni,612efa4cb1894f00716dc42d,Swarup Kulkarni,612efa4cb1894f00716dc42d,Swarup Kulkarni,612efa4cb1894f00716dc42d,05/Sep/21 11:14 AM,08/Sep/21 6:45 PM,08/Sep/21 6:44 PM,,,0,"*AS A* User (Student)
+
+*I WANT* to check for a Calendar by Week Functionality in personal Agenda.
+
+*SO THAT*  I can successfully make my schedule in a particular week. 
+
+
+
+ *SCOPE*
+
+* Build a Calendar by Week Page in Personal Agenda.
+* User should able to see the calendar by Week page.
+* It should work in all browsers.
+* It should also work in mobile.
+
+ 
+
+*Pre Conditions*
+
+* User should have  logged in the _Elearning Website_.
+* User should have to select the Personal Agenda option in Elearning website.
+* User should have selected _week_ option in personal agenda
+
+
+
+*_Acceptance Criteria_*
+
+#  Given that I am a registered user and Logged in Elearning Website. If I go to the personal Agenda page  and if I click on any date in calendar by week option then  personal calendar pop up option should be accessible.   ",,Swarup Kulkarni,612efa4cb1894f00716dc42d,,,,,,,,,EL-39,,EL-32,EL-34,EL-35,EL-36,EL-37,EL-40,EL-41,EL-42,,,,,,,07/Sep/21 5:27 AM;ug:04b627af-7f1d-494b-bc4c-42af51646025;Calendar by Week .jpg;https://corporateola123456.atlassian.net/secure/attachment/10005/Calendar+by+Week+.jpg,,,,,,{},,EL-1,,,,,0|i0008h:,,EL Sprint 1,,,,,,,,,In Progress
+Verify the Link dropdown of the link icon Dialog box in the description box whether the option is Clickable or not for personal calendar ,EL-30,10045,Test,Done,EL,E - Learning,software,Swarup Kulkarni,612efa4cb1894f00716dc42d,,Medium,Done,Swarup Kulkarni,612efa4cb1894f00716dc42d,Swarup Kulkarni,612efa4cb1894f00716dc42d,Swarup Kulkarni,612efa4cb1894f00716dc42d,05/Sep/21 10:59 AM,07/Sep/21 9:15 AM,08/Sep/21 8:40 AM,07/Sep/21 8:38 AM,,0,,,Swarup Kulkarni,612efa4cb1894f00716dc42d,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{},,,,,,,0|i0007v:,,EL Sprint 1,,,,,,,,,Done
+Verify the 'Font' option of the Description box  for personal calendar agenda is working or not,EL-29,10044,Test,Done,EL,E - Learning,software,Swarup Kulkarni,612efa4cb1894f00716dc42d,,Medium,Done,Swarup Kulkarni,612efa4cb1894f00716dc42d,Swarup Kulkarni,612efa4cb1894f00716dc42d,Swarup Kulkarni,612efa4cb1894f00716dc42d,05/Sep/21 10:51 AM,07/Sep/21 9:15 AM,08/Sep/21 8:42 AM,07/Sep/21 8:38 AM,,0,,,Swarup Kulkarni,612efa4cb1894f00716dc42d,,,,,,,,,,,EL-26,,,,,,,,,,,,,,,,,,,,{},,,,,,,0|i00087:,,EL Sprint 1,,,,,,,,,Done
+Verifying the Present Date in Personal Agenda,EL-28,10043,Test,Done,EL,E - Learning,software,Swarup Kulkarni,612efa4cb1894f00716dc42d,,Medium,Done,Swarup Kulkarni,612efa4cb1894f00716dc42d,Swarup Kulkarni,612efa4cb1894f00716dc42d,Swarup Kulkarni,612efa4cb1894f00716dc42d,03/Sep/21 11:26 AM,07/Sep/21 7:43 AM,09/Sep/21 5:13 AM,07/Sep/21 7:43 AM,,0,,,Swarup Kulkarni,612efa4cb1894f00716dc42d,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{},,,,,,,0|i0002w:,,EL Sprint 1,,,,,,,,,Done
+Verifying the Description by Hover on the the Date.,EL-27,10042,Test,Done,EL,E - Learning,software,Swarup Kulkarni,612efa4cb1894f00716dc42d,,Medium,Done,Swarup Kulkarni,612efa4cb1894f00716dc42d,Swarup Kulkarni,612efa4cb1894f00716dc42d,Swarup Kulkarni,612efa4cb1894f00716dc42d,03/Sep/21 11:04 AM,07/Sep/21 8:38 AM,09/Sep/21 5:13 AM,07/Sep/21 8:38 AM,,0,,,Swarup Kulkarni,612efa4cb1894f00716dc42d,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{},,,,,,,0|i0007z:,,EL Sprint 1,,,,,,,,,Done
+As a user I want to edit my Personal Calendar agenda in 'edit event' fields functionality  ,EL-26,10041,Story,Done,EL,E - Learning,software,Swarup Kulkarni,612efa4cb1894f00716dc42d,,Medium,Done,Swarup Kulkarni,612efa4cb1894f00716dc42d,Swarup Kulkarni,612efa4cb1894f00716dc42d,Swarup Kulkarni,612efa4cb1894f00716dc42d,03/Sep/21 10:20 AM,08/Sep/21 6:14 PM,08/Sep/21 5:57 PM,07/Sep/21 8:37 AM,,0,"*AS A USER* (Student).
+
+*I Want To* access Edit Event Functionality.
+
+*So That* I can make my personal _agenda calendar_ in calendar by _month_.
+
+
+
+ *SCOPE*
+
+* Build a Personal Agenda.
+* User should able to see the pop up page of personal agenda calendar.
+* It should work in all browsers.
+* It should also work in mobile.
+
+ 
+
+*Pre Conditions*
+
+* User should have  logged in the _Elearning Website_.
+* User should have to select the Personal Agenda option in Elearning website.
+* User should have created the Personal agenda calendar.
+
+
+
+*_Acceptance Criteria_*
+
+#  Given that I am a registered user and Logged in E-Learning Website. If I go to the personal Agenda page  and if I click on a date on which i have saved the *Personal Agenda Calendar* then I am able to click on *edit event* functionality.",,Swarup Kulkarni,612efa4cb1894f00716dc42d,,,,,,,,,,,EL-16,EL-17,EL-24,EL-30,EL-45,,,,,,,,,,,,,,,,{},,,,,,,0|i0004j:,,EL Sprint 1,,,,,,,,,Done
+Verify if the text color can be changed when user selects an option from Text Color in personal calendar agenda.,EL-25,10040,Test,Done,EL,E - Learning,software,Swarup Kulkarni,612efa4cb1894f00716dc42d,,Medium,Done,Swarup Kulkarni,612efa4cb1894f00716dc42d,Swarup Kulkarni,612efa4cb1894f00716dc42d,Swarup Kulkarni,612efa4cb1894f00716dc42d,03/Sep/21 9:40 AM,08/Sep/21 8:40 AM,08/Sep/21 8:40 AM,07/Sep/21 8:38 AM,,0,,,Swarup Kulkarni,612efa4cb1894f00716dc42d,,,,,,,,,,,EL-26,,,,,,,,,,,,,,,,,,,,{},,,,,,,0|i0007r:,,EL Sprint 1,,,,,,,,,Done
+verifying Table option in toolbox for description for Edit event in personal calendar agenda.,EL-24,10039,Test,Done,EL,E - Learning,software,Swarup Kulkarni,612efa4cb1894f00716dc42d,,Medium,Done,Swarup Kulkarni,612efa4cb1894f00716dc42d,Swarup Kulkarni,612efa4cb1894f00716dc42d,Swarup Kulkarni,612efa4cb1894f00716dc42d,03/Sep/21 8:59 AM,08/Sep/21 8:40 AM,08/Sep/21 8:40 AM,07/Sep/21 8:37 AM,,0,,,Swarup Kulkarni,612efa4cb1894f00716dc42d,,,,,,,,,,,EL-26,,,,,,,,,,,,,,,,,,,,{},,,,,,,0|i00077:,,EL Sprint 1,,,,,,,,"03/Sep/21 9:14 AM;612efa4cb1894f00716dc42d;Whenever user have to use Table in Description Box. 
+
+Table option in tool box of description is working properly.",Done
+Verifying Save Option in description box in edit event for personal calendar.,EL-23,10038,Test,Done,EL,E - Learning,software,Swarup Kulkarni,612efa4cb1894f00716dc42d,,Medium,Done,Swarup Kulkarni,612efa4cb1894f00716dc42d,Swarup Kulkarni,612efa4cb1894f00716dc42d,Swarup Kulkarni,612efa4cb1894f00716dc42d,03/Sep/21 8:21 AM,08/Sep/21 6:26 AM,08/Sep/21 8:39 AM,07/Sep/21 8:37 AM,,0,,,Swarup Kulkarni,612efa4cb1894f00716dc42d,,,,,,,,,,,EL-26,,,,,,,,,,,,,,,,,,,,{},,,,,,,0|i0006v:,,EL Sprint 1,,,,,,,,"03/Sep/21 8:26 AM;612efa4cb1894f00716dc42d;If user added valid title for edit event option in personal calendar agenda then Event will save with description.
+
+*Save* option in {color:#ff5630}Description box{color} is _working properly_.",Done
+ Verifying Link option for description in edit event for personal calendar.,EL-22,10037,Test,Done,EL,E - Learning,software,Swarup Kulkarni,612efa4cb1894f00716dc42d,,Medium,Done,Swarup Kulkarni,612efa4cb1894f00716dc42d,Swarup Kulkarni,612efa4cb1894f00716dc42d,Swarup Kulkarni,612efa4cb1894f00716dc42d,03/Sep/21 8:01 AM,08/Sep/21 8:40 AM,08/Sep/21 8:40 AM,07/Sep/21 8:37 AM,,0,,,Swarup Kulkarni,612efa4cb1894f00716dc42d,,,,,,,,,,,EL-26,,,,,,,,,,,,,,,,,,,,{},,,,,,,0|i0007b:,,EL Sprint 1,,,,,,,,,Done
+Verifying the image Dialog box in description box in Event Edit for personal calendar.,EL-21,10036,Test,Done,EL,E - Learning,software,Swarup Kulkarni,612efa4cb1894f00716dc42d,,Medium,Done,Swarup Kulkarni,612efa4cb1894f00716dc42d,Swarup Kulkarni,612efa4cb1894f00716dc42d,Swarup Kulkarni,612efa4cb1894f00716dc42d,03/Sep/21 7:50 AM,08/Sep/21 8:39 AM,08/Sep/21 8:39 AM,07/Sep/21 8:37 AM,,0,,,Swarup Kulkarni,612efa4cb1894f00716dc42d,,,,,,,,,,,EL-26,,,,,,,,,,,,,,,,,,,,{},,,,,,,0|i00073:,,EL Sprint 1,,,,,,,,,Done
+Verifying 'embed youtube video' dialog box in edit event for personal calendar Agenda.,EL-20,10035,Test,Done,EL,E - Learning,software,Swarup Kulkarni,612efa4cb1894f00716dc42d,,Medium,Done,Swarup Kulkarni,612efa4cb1894f00716dc42d,Swarup Kulkarni,612efa4cb1894f00716dc42d,Swarup Kulkarni,612efa4cb1894f00716dc42d,03/Sep/21 6:56 AM,08/Sep/21 8:38 AM,08/Sep/21 8:38 AM,07/Sep/21 8:37 AM,,0,,,Swarup Kulkarni,612efa4cb1894f00716dc42d,,,,,,,,,,,EL-26,,,,,,,,,,,,,,,,,,,,{},,,,,,,0|i0005j:,,EL Sprint 1,,,,,,,,03/Sep/21 6:59 AM;612efa4cb1894f00716dc42d;*Embed Youtube video link* toolbox in{color:#ff5630} +description box+{color} in edit event is working properly.,Done
+Verifying toolbox for description box in Event edit for personal calendar Agenda.,EL-19,10034,Test,Done,EL,E - Learning,software,Swarup Kulkarni,612efa4cb1894f00716dc42d,,Medium,Done,Swarup Kulkarni,612efa4cb1894f00716dc42d,Swarup Kulkarni,612efa4cb1894f00716dc42d,Swarup Kulkarni,612efa4cb1894f00716dc42d,03/Sep/21 5:20 AM,08/Sep/21 8:39 AM,08/Sep/21 8:39 AM,07/Sep/21 8:37 AM,,0,,,Swarup Kulkarni,612efa4cb1894f00716dc42d,,,,,,,,,,,EL-26,,,,,,,,,,,,,,,,,,,,{},,,,,,,0|i00067:,,EL Sprint 1,,,,,,,,03/Sep/21 5:24 AM;612efa4cb1894f00716dc42d;*Toolbox* in {color:#6554c0}Description box{color} in{color:#97a0af} {color}{color:#97a0af}+edit event+{color} is _working properly_,Done
+Verifying description box in edit event for personal calendar Agenda.,EL-18,10033,Test,Done,EL,E - Learning,software,Swarup Kulkarni,612efa4cb1894f00716dc42d,,Medium,Done,Swarup Kulkarni,612efa4cb1894f00716dc42d,Swarup Kulkarni,612efa4cb1894f00716dc42d,Swarup Kulkarni,612efa4cb1894f00716dc42d,03/Sep/21 5:12 AM,08/Sep/21 8:38 AM,08/Sep/21 8:38 AM,07/Sep/21 8:37 AM,,0,,,Swarup Kulkarni,612efa4cb1894f00716dc42d,,,,,,,,,,,EL-26,,,,,,,,,,,,,,,,,,,,{},,,,,,,0|i0005r:,,EL Sprint 1,,,,,,,,03/Sep/21 5:15 AM;612efa4cb1894f00716dc42d;*Description Box* in {color:#6554c0}Edit Even{color}t is _Working Properly._,Done
+verifying the date range in edit event for personal calendar agenda.,EL-17,10032,Test,Done,EL,E - Learning,software,Swarup Kulkarni,612efa4cb1894f00716dc42d,,Medium,Done,Swarup Kulkarni,612efa4cb1894f00716dc42d,Swarup Kulkarni,612efa4cb1894f00716dc42d,Swarup Kulkarni,612efa4cb1894f00716dc42d,03/Sep/21 5:00 AM,08/Sep/21 8:39 AM,08/Sep/21 8:38 AM,07/Sep/21 8:37 AM,,0,,,Swarup Kulkarni,612efa4cb1894f00716dc42d,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{},,,,,,,0|i0005z:,,EL Sprint 1,,,,,,,,,Done
+Verifying the Event Name in edit event for personal calendar Agenda.,EL-16,10031,Test,Done,EL,E - Learning,software,Swarup Kulkarni,612efa4cb1894f00716dc42d,,Medium,Done,Swarup Kulkarni,612efa4cb1894f00716dc42d,Swarup Kulkarni,612efa4cb1894f00716dc42d,Swarup Kulkarni,612efa4cb1894f00716dc42d,03/Sep/21 4:48 AM,08/Sep/21 8:38 AM,08/Sep/21 8:38 AM,07/Sep/21 8:37 AM,,0,,,Swarup Kulkarni,612efa4cb1894f00716dc42d,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{},,,,,,,0|i0004n:,,EL Sprint 1,,,,,,,,03/Sep/21 4:52 AM;612efa4cb1894f00716dc42d;In edit event Entering the name o*f event* is working properly.,Done
+Verify that 'Add' button to save the personal calendar is Saving the Personal Agenda for a month Without entering the 'Title' or 'Description'. ,EL-15,10030,Bug,To Do,EL,E - Learning,software,Swarup Kulkarni,612efa4cb1894f00716dc42d,,Medium,,Swarup Kulkarni,612efa4cb1894f00716dc42d,Swarup Kulkarni,612efa4cb1894f00716dc42d,Swarup Kulkarni,612efa4cb1894f00716dc42d,03/Sep/21 4:31 AM,07/Sep/21 12:14 PM,08/Sep/21 10:36 AM,,,0,"*Steps To Reproduce* :-
+
+1. Go to the *_e-Learning app._*
+2. Go to to personal Personal Calendar
+3. Click on any date displayed on screen .
+4. Add button  save the Personal calendar  with or without  title and description.
+
+
+
+Expected Result:- Add button should save the personal Calendar whenever an user enter to Title or Description 
+
+Actual result :- Add Button can  save the personal calendar without entering any title or description.",Browser : Chrome version 43.,Swarup Kulkarni,612efa4cb1894f00716dc42d,,,,,,,,,,,,,,,,,,,,,,,,,03/Sep/21 6:51 AM;ug:04b627af-7f1d-494b-bc4c-42af51646025;Untitled.jpg;https://corporateola123456.atlassian.net/secure/attachment/10000/Untitled.jpg,,,,,,{},,,,,,,0|i0004f:,,EL Sprint 1,,,,,,,,,To Do
+Verifying the Add option to save the personal calendar Agenda for Calendar by Month Functionality.,EL-14,10029,Test,Block,EL,E - Learning,software,Swarup Kulkarni,612efa4cb1894f00716dc42d,,Medium,,Swarup Kulkarni,612efa4cb1894f00716dc42d,Swarup Kulkarni,612efa4cb1894f00716dc42d,Swarup Kulkarni,612efa4cb1894f00716dc42d,03/Sep/21 4:13 AM,08/Sep/21 7:48 PM,08/Sep/21 7:47 PM,,,0,,,Swarup Kulkarni,612efa4cb1894f00716dc42d,,,,,,,,,EL-15,,,,,,,,,,,,,,,,,,,,,,{},,,,,,,0|i00047:,,EL Sprint 1,,,,,,,,03/Sep/21 4:17 AM;612efa4cb1894f00716dc42d;User is able to save the personal calendar with or without title and description.,In Progress
+verifying Delete Option for saved personal calendar agenda For Calendar by month functionality.,EL-13,10028,Test,Done,EL,E - Learning,software,Swarup Kulkarni,612efa4cb1894f00716dc42d,,Medium,Done,Swarup Kulkarni,612efa4cb1894f00716dc42d,Swarup Kulkarni,612efa4cb1894f00716dc42d,Swarup Kulkarni,612efa4cb1894f00716dc42d,03/Sep/21 4:08 AM,08/Sep/21 7:47 PM,08/Sep/21 7:47 PM,07/Sep/21 8:33 AM,,0,,,Swarup Kulkarni,612efa4cb1894f00716dc42d,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{},,,,,,,0|i0003z:,,EL Sprint 1,,,,,,,,03/Sep/21 4:11 AM;612efa4cb1894f00716dc42d;*Delete option* in Personal Calendar is working properly.,Done
+Verifying the Description in Personal Calendar ( Calendar By Month),EL-12,10027,Test,Done,EL,E - Learning,software,Swarup Kulkarni,612efa4cb1894f00716dc42d,,Medium,Done,Swarup Kulkarni,612efa4cb1894f00716dc42d,Swarup Kulkarni,612efa4cb1894f00716dc42d,Swarup Kulkarni,612efa4cb1894f00716dc42d,02/Sep/21 4:59 PM,07/Sep/21 9:14 AM,07/Sep/21 9:14 AM,07/Sep/21 8:31 AM,,0,,,Swarup Kulkarni,612efa4cb1894f00716dc42d,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{},,,,,,,0|i0002y:m,,EL Sprint 1,,,,,,,,,Done
+As a User i want check calendar by month functionality so that I can make personal agenda calendar.,EL-11,10026,Story,Block,EL,E - Learning,software,Swarup Kulkarni,612efa4cb1894f00716dc42d,,Medium,,Swarup Kulkarni,612efa4cb1894f00716dc42d,Swarup Kulkarni,612efa4cb1894f00716dc42d,Swarup Kulkarni,612efa4cb1894f00716dc42d,02/Sep/21 4:48 PM,08/Sep/21 8:09 PM,08/Sep/21 5:56 PM,,,0,"*AS A USER* (Student).
+
+*I Want To* have Calendar by Month Functionality.
+
+*So That* I can make my personal _agenda calendar_ in calendar by _month_.
+
+
+
+ *SCOPE*
+
+* Build a Calendar by Month Page in Personal Agenda.
+* User should able to see the calendar by month page.
+* It should work in all browsers.
+* It should also work in mobile.
+
+ 
+
+*Pre Conditions*
+
+* User should have  logged in the _Elearning Website_.
+* User should have to select the Personal Agenda option in Elearning website.
+
+
+
+*_Acceptance Criteria_*
+
+#  Given that I am a registered user and Logged in Elearning Website. If I go to the personal Agenda page  and if I click on any date in calendar by month option then  personal calendar pop up option should be accessible.  ",,Swarup Kulkarni,612efa4cb1894f00716dc42d,,,,,,,,,EL-15,,EL-4,EL-5,EL-12,EL-6,EL-8,EL-13,EL-14,EL-19,EL-20,EL-21,EL-22,EL-23,EL-27,EL-68,07/Sep/21 5:02 AM;ug:04b627af-7f1d-494b-bc4c-42af51646025;Personal Agenda.jpg;https://corporateola123456.atlassian.net/secure/attachment/10004/Personal+Agenda.jpg,,,,,,{},,EL-1,,,,,0|i0002x:,,EL Sprint 1,,,,,,,,,In Progress
+Verifying 'Link' option in description for personal calendar agenda for Calendar By month functionality.,EL-9,10024,Test,Done,EL,E - Learning,software,Swarup Kulkarni,612efa4cb1894f00716dc42d,,Medium,Done,Swarup Kulkarni,612efa4cb1894f00716dc42d,Swarup Kulkarni,612efa4cb1894f00716dc42d,Swarup Kulkarni,612efa4cb1894f00716dc42d,02/Sep/21 3:31 PM,08/Sep/21 7:47 PM,08/Sep/21 7:46 PM,07/Sep/21 8:32 AM,,0,,,Swarup Kulkarni,612efa4cb1894f00716dc42d,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{},,,,,,,0|i0002z:,,EL Sprint 1,,,,,,,,,Done
+Verifying the image toolkit in description box for personal calendar. ( calendar by Month),EL-8,10023,Test,Done,EL,E - Learning,software,Swarup Kulkarni,612efa4cb1894f00716dc42d,,Medium,Done,Swarup Kulkarni,612efa4cb1894f00716dc42d,Swarup Kulkarni,612efa4cb1894f00716dc42d,Swarup Kulkarni,612efa4cb1894f00716dc42d,02/Sep/21 1:57 PM,07/Sep/21 9:14 AM,07/Sep/21 9:14 AM,07/Sep/21 8:31 AM,,0,,,Swarup Kulkarni,612efa4cb1894f00716dc42d,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{},,,,,,,0|i0002y:v,,EL Sprint 1,,,,,,,,,Done
+Verify the Edit option for personal calendar agenda in calendar by month Functionality.,EL-7,10022,Test,Done,EL,E - Learning,software,Swarup Kulkarni,612efa4cb1894f00716dc42d,,Medium,Done,Swarup Kulkarni,612efa4cb1894f00716dc42d,Swarup Kulkarni,612efa4cb1894f00716dc42d,Swarup Kulkarni,612efa4cb1894f00716dc42d,02/Sep/21 1:55 PM,08/Sep/21 7:46 PM,08/Sep/21 7:47 PM,07/Sep/21 8:32 AM,,0,,,Swarup Kulkarni,612efa4cb1894f00716dc42d,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{},,,,,,,0|i0003r:,,EL Sprint 1,,,,,,,,02/Sep/21 6:12 PM;612efa4cb1894f00716dc42d;*Edit* Option *Agenda for personal calenda*r is working properly.,Done
+Verifying the toolkit in description box in personal calendar ( calendar by month),EL-6,10021,Test,Done,EL,E - Learning,software,Swarup Kulkarni,612efa4cb1894f00716dc42d,,Medium,Done,Swarup Kulkarni,612efa4cb1894f00716dc42d,Swarup Kulkarni,612efa4cb1894f00716dc42d,Swarup Kulkarni,612efa4cb1894f00716dc42d,02/Sep/21 1:39 PM,07/Sep/21 9:14 AM,07/Sep/21 9:14 AM,07/Sep/21 8:31 AM,,0,,,Swarup Kulkarni,612efa4cb1894f00716dc42d,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{},,,,,,,0|i0002y:r,,EL Sprint 1,,,,,,,,,Done
+Verifying the 'Title' option  in Edit event functionality in personal calendar,EL-5,10020,Test,Done,EL,E - Learning,software,Swarup Kulkarni,612efa4cb1894f00716dc42d,,Medium,Done,Swarup Kulkarni,612efa4cb1894f00716dc42d,Swarup Kulkarni,612efa4cb1894f00716dc42d,Swarup Kulkarni,612efa4cb1894f00716dc42d,02/Sep/21 10:06 AM,08/Sep/21 7:43 PM,08/Sep/21 7:42 PM,07/Sep/21 8:31 AM,,0,,,Swarup Kulkarni,612efa4cb1894f00716dc42d,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{},,,,,,,0|i0002y:i,,EL Sprint 1,,,,,,,,,Done
+Verify for pop up of Personal Calendar Agenda For Calendar by month Functionality.,EL-4,10019,Test,Done,EL,E - Learning,software,Swarup Kulkarni,612efa4cb1894f00716dc42d,,Medium,Done,Swarup Kulkarni,612efa4cb1894f00716dc42d,Swarup Kulkarni,612efa4cb1894f00716dc42d,Swarup Kulkarni,612efa4cb1894f00716dc42d,02/Sep/21 9:51 AM,08/Sep/21 7:45 PM,08/Sep/21 7:43 PM,07/Sep/21 8:31 AM,,0,,,Swarup Kulkarni,612efa4cb1894f00716dc42d,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{},,,,,,,0|i0002y:9,,EL Sprint 1,,,,,,,,,Done
+verify that in clicking the personal Agenda option a calendar widget should open.,EL-3,10018,Test,Done,EL,E - Learning,software,Swarup Kulkarni,612efa4cb1894f00716dc42d,,Medium,Done,Swarup Kulkarni,612efa4cb1894f00716dc42d,Swarup Kulkarni,612efa4cb1894f00716dc42d,Swarup Kulkarni,612efa4cb1894f00716dc42d,02/Sep/21 9:05 AM,07/Sep/21 7:43 AM,09/Sep/21 5:13 AM,07/Sep/21 7:43 AM,,0,,,Swarup Kulkarni,612efa4cb1894f00716dc42d,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{},,,,,,,0|i0002v:,,EL Sprint 1,,,,,,,,,Done
+As a user I want to check for personal Agenda So that I can successfully make my personal agenda for particular work.,EL-2,10017,Story,Block,EL,E - Learning,software,Swarup Kulkarni,612efa4cb1894f00716dc42d,,Medium,,Swarup Kulkarni,612efa4cb1894f00716dc42d,Swarup Kulkarni,612efa4cb1894f00716dc42d,Swarup Kulkarni,612efa4cb1894f00716dc42d,02/Sep/21 8:55 AM,08/Sep/21 6:55 PM,08/Sep/21 6:54 PM,,,0,"*As A User* (Student).
+
+*I Want* to have a personal agenda functionality.
+
+*So that* I can successfully make my personal agenda for particular work.
+
+
+
+*_SCOPE_*
+
+* Build a _personal agenda_ page.
+* user should able to see personal agenda page.
+* User should able to make their personal agenda _list/Calendar_ as per their scheduled work.
+* It should work in all the _browser._
+* It should also work in _mobile_.
+
+
+
+*PRE CONDITIONS*.
+
+User should have logged in the _Elearning Website._
+
+
+
+*_Acceptance Criteria_*
+
+#  Given that I am a registered user and Logged in Elearning Website. If I go to the personal Agenda page  then  personal Agenda option should be accessible.   ",,Swarup Kulkarni,612efa4cb1894f00716dc42d,,,,,,,,,,,EL-3,EL-28,EL-43,EL-44,EL-63,EL-64,,,,,,,,,07/Sep/21 4:18 AM;ug:04b627af-7f1d-494b-bc4c-42af51646025;Personal Agenda.jpg;https://corporateola123456.atlassian.net/secure/attachment/10003/Personal+Agenda.jpg,,,,,,{},,EL-1,,,,,0|i0002n:,,EL Sprint 1,,,,,,,,,In Progress
+Personal Agenda,EL-1,10016,Epic,In Progress,EL,E - Learning,software,Swarup Kulkarni,612efa4cb1894f00716dc42d,,Medium,,Swarup Kulkarni,612efa4cb1894f00716dc42d,Swarup Kulkarni,612efa4cb1894f00716dc42d,Swarup Kulkarni,612efa4cb1894f00716dc42d,02/Sep/21 8:47 AM,08/Sep/21 9:26 AM,09/Sep/21 3:53 AM,,,0,,,Swarup Kulkarni,612efa4cb1894f00716dc42d,,,,,,,,,,,EL-11,EL-2,EL-26,EL-31,EL-46,EL-58,,,,,,,,,,,,,,,{},ghx-label-4,,Personal Agenda Functionality.,To Do,,,0|i0002f:,,EL Sprint 1,,,,,,,,,In Progress
